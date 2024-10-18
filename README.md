@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbritz758-rgb%2FCAPEsolo.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbritz758-rgb%2FCAPEsolo?ref=badge_shield)
+
 Python GUI to run capemon in standalone VM. Provides a subset of CAPE processing and results.
 
 * Create a Windows 10 VM that's suitable for running malware.
@@ -24,3 +26,6 @@ Analysis results are found in C:\Users\Public\CAPEsolo\analysis.
 * Can be configured in python-path\site-packages\CAPEsolo\cfg.ini
 
 Revert the VM after each analysis.
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbritz758-rgb%2FCAPEsolo.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbritz758-rgb%2FCAPEsolo?ref=badge_large)
